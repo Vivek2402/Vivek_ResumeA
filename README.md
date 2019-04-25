@@ -1,2 +1,2 @@
-# Vivek2402_2.github.io
+# Vivek2402Resume.github.io
 for Vivek's Resume
