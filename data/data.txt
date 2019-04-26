@@ -1,0 +1,84 @@
+[
+{
+"keyword": "hobby",
+"result": "games"
+},
+{
+"keyword": "percentage Graduation",
+"result": "80%"
+},
+{
+"keyword": "branch MBA",
+"result": "Sales and Marketing"
+},
+{
+"keyword": "percentage post Graduation",
+"result": "77.9%"
+},
+{
+"keyword": "hobby",
+"result": "cooking"
+},
+
+{
+"keyword": "name",
+"result": "Vivek Gaur"
+},
+{
+"keyword": "Born",
+"result": "Meerut"
+},
+{
+"keyword": "dob",
+"result": "24th February 1986"
+},
+{
+"keyword": "Date of birth",
+"result": "24th February 1986"
+},
+{
+"keyword": "Graduation college",
+"result": "Meerut College, Meerut"
+},
+
+{
+"keyword": "Previous Company",
+"result": "Vodafone"
+},
+{
+"keyword": "Previous Company",
+"result": "Sony"
+},
+{
+"keyword": "Previous Company",
+"result": "Asus"
+},
+{
+"keyword": "Previous Company",
+"result": "Videocon"
+},
+{
+"keyword": "Previous Company",
+"result": "Reliance"
+},
+{
+"keyword": "Love",
+"result": "cooking"
+},
+{
+"keyword": "Love",
+"result": "exploring new places"
+},
+{
+"keyword": "Mobile Number",
+"result": "9168240286"
+},
+{
+"keyword": "email id",
+"result": "vivekgaur24@gmail.com"
+},
+{
+"keyword": "love",
+"result": "playing games"
+}
+]
