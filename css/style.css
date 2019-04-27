@@ -1,3 +1,4 @@
+
 body{height:100%;overflow-x:hidden;}
 .disablelink{pointer-events: none;cursor: default;opacity: 0.6;}
 .mainbg{background-image:url("../img/img_3.jpg");position:relative;opacity:0.7;background-attachment:fixed;background-position:center;background-repeat:no-repeat;background-size:cover;height:670px;}
@@ -7,9 +8,12 @@ body{height:100%;overflow-x:hidden;}
 a{color:white;}
 .bio-desc{color:black;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:white;}
 .bio-section{background-color:#FFFFFF;}
+.skill-desc{color:white;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:black;}
 .education-section{background-color:black;}
 .work-section{background-color:#212121;}
 .skill-section{background-color:#212121;}
+.award-section{background-color:#212121;}
+.award-desc{color:#880E4F;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:black;}
 .contact-section{background-color:black;}
 .footer-section{background-color:#212121;color:grey;}
 .tablink{background-color:white;color:black;float:left;border:none;outline:none;cursor:pointer;padding:14px 16px;font-size:17px;width:33.33%;}
