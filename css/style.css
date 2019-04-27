@@ -21,7 +21,7 @@ a{color:white;}
 .tabcontent{color:white;display:none;padding:20px;text-align:center;background-color:#EF6C00;border-radius:10px;box-shadow:8px 6px white;}
 .button{border-radius:10px;box-shadow:0 4px white;}
 .button:hover{transform:translateY(6px);box-shadow:0 6px #666;border-radius:10px;}
-.section-heading{color:#FFFFFF;font-size:42px;text-align:center;font-family:'Josefin Sans', sans-serif;text-transform:capitalize;}
+.section-heading{color:#BF360C;font-size:42px;text-align:center;font-family:'Josefin Sans', sans-serif;text-transform:capitalize;}
 .affix{top:0;width:100%;z-index:9999 !important;}
 .affix ~ .container-fluid{position:relative;top:500px;}
 #project-desc{text-align:justify;}
