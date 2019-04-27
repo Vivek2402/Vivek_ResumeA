@@ -8,12 +8,12 @@ body{height:100%;overflow-x:hidden;}
 a{color:white;}
 .bio-desc{color:black;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:white;}
 .bio-section{background-color:#FFFFFF;}
-.skill-desc{color:white;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:black;}
+.skill-desc{color:#FF6F00;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:#FFE57F;}
 .education-section{background-color:black;}
 .work-section{background-color:#212121;}
 .skill-section{background-color:#212121;}
 .award-section{background-color:#212121;}
-.award-desc{color:#880E4F;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:black;}
+.award-desc{color:#880E4F;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:#90CAF9;}
 .contact-section{background-color:black;}
 .footer-section{background-color:#212121;color:grey;}
 .tablink{background-color:white;color:black;float:left;border:none;outline:none;cursor:pointer;padding:14px 16px;font-size:17px;width:33.33%;}
