@@ -1,7 +1,7 @@
 [
 {
 "keyword": "hobby",
-"result": "games"
+"result": "GAMES"
 },
 {
 "keyword": "percentage Graduation",
@@ -9,7 +9,7 @@
 },
 {
 "keyword": "branch MBA",
-"result": "Sales and Marketing"
+"result": "SALES AND MARKETING"
 },
 {
 "keyword": "percentage post Graduation",
@@ -17,57 +17,61 @@
 },
 {
 "keyword": "hobby",
-"result": "cooking"
+"result": "COOKING"
 },
 
 {
 "keyword": "name",
-"result": "Vivek Gaur"
+"result": "VIVEK GAUR"
 },
 {
 "keyword": "Born",
-"result": "Meerut"
+"result": "MEERUT"
 },
 {
 "keyword": "dob",
-"result": "24th February 1986"
+"result": "24TH FEBRUARY 1986"
 },
 {
 "keyword": "Date of birth",
-"result": "24th February 1986"
+"result": "24TH FEBRUARY 1986"
 },
 {
 "keyword": "Graduation college",
-"result": "Meerut College, Meerut"
+"result": "CCS UNIVERSITY, MEERUT"
 },
 
 {
 "keyword": "Previous Company",
-"result": "Vodafone"
+"result": "VODAFONE"
 },
 {
 "keyword": "Previous Company",
-"result": "Sony"
+"result": "SONY"
 },
 {
 "keyword": "Previous Company",
-"result": "Asus"
+"result": "ASUS"
 },
 {
 "keyword": "Previous Company",
-"result": "Videocon"
+"result": "VIDEOCON"
 },
 {
 "keyword": "Previous Company",
-"result": "Reliance"
+"result": "RELIANCE"
 },
 {
 "keyword": "Love",
-"result": "cooking"
+"result": "COOKING"
 },
 {
 "keyword": "Love",
-"result": "exploring new places"
+"result": "EXPLORING NEW PLACES"
+},
+{
+"keyword": "Love",
+"result": "MEETING NEW PEOPLE"
 },
 {
 "keyword": "Mobile Number",
@@ -79,6 +83,26 @@
 },
 {
 "keyword": "love",
-"result": "playing games"
+"result": "PLAYING GAMES"
+}
+{
+"keyword": "skills",
+"result": "CONVINCING POWER"
+}
+{
+"keyword": "skills",
+"result": "CONFIDENT"
+}
+{
+"keyword": "skills",
+"result": "INNOVATIVE"
+}
+{
+"keyword": "skills",
+"result": "MOTIVATING"
+}
+{
+"keyword": "skills",
+"result": "GOAL ORIENTED"
 }
 ]
