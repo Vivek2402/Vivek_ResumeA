@@ -63,7 +63,7 @@
 },
 {
 "keyword": "Love",
-"result": "cooking"
+"result": "COOKING"
 },
 {
 "keyword": "Love",
