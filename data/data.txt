@@ -4,10 +4,6 @@
 "result": "GAMES"
 },
 {
-"keyword": "hobby",
-"result": "cricket"
-},
-{
 "keyword": "percentage Graduation",
 "result": "80%"
 },
