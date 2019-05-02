@@ -1,7 +1,7 @@
 function search(text) {
     if (text.length > 0) {
         var xmlhttp = new XMLHttpRequest();
-        var url = "data/data1.txt";
+        var url = "data/data.txt";
         xmlhttp.onreadystatechange = function () {
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
                 var myArr = JSON.parse(xmlhttp.responseText);
