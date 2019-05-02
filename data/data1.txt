@@ -1,7 +1,7 @@
 [
 {
 "keyword": "hobby",
-"result": "GAMES"
+"result": "games"
 },
 {
 "keyword": "hobby",
@@ -13,7 +13,7 @@
 },
 {
 "keyword": "branch MBA",
-"result": "SALES AND MARKETING"
+"result": "sales and marketing"
 },
 {
 "keyword": "percentage post Graduation",
@@ -21,20 +21,20 @@
 },
 {
 "keyword": "hobby",
-"result": "COOKING"
+"result": "cooking"
 },
 
 {
 "keyword": "name",
-"result": "VIVEK GAUR"
+"result": "vivek Gaur"
 },
 {
 "keyword": "Born",
-"result": "MEERUT"
+"result": "Meerut"
 },
 {
 "keyword": "dob",
-"result": "24TH FEBRUARY 1986"
+"result": "24TH February 1986"
 },
 {
 "keyword": "Date of birth",
