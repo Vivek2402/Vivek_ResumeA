@@ -1,98 +1,98 @@
 [
 {
 "keyword": "hobby",
-"result": "listening music"
+"result": "cooking"
 },
 {
 "keyword": "percentage class 12th",
 "result": "80%"
 },
 {
-"keyword": "branch engineering",
-"result": "computer science and engineering"
+"keyword": "branch MBA",
+"result": "Sales and Marketing"
 },
 {
-"keyword": "percentage 10th",
+"keyword": "percentage MBA",
 "result": "77.9%"
 },
 {
-"keyword": "cgpa 10th",
-"result": "8.2"
+"keyword": "hobby",
+"result": "games"
 },
 {
 "keyword": "hobby",
-"result": "reading stuff"
+"result": "exploring new places"
 },
 {
-"keyword": "internship",
-"result": "PartyHard"
+"keyword": "previous company",
+"result": "sony"
 },
 {
-"keyword": "internship",
-"result": "Wipro Ltd."
+"keyword": "previous company",
+"result": "Asus"
+},
+{
+"keyword": "previous company",
+"result": "Vodafone"
+},
+{
+"keyword": "previous company",
+"result": "RELIANCE"
 },
 {
 "keyword": "name",
-"result": "Ankit Kumar"
+"result": "VIVEK GAUR"
 },
 {
 "keyword": "Born",
-"result": "Patna"
+"result": "Meerut"
 },
 {
 "keyword": "dob",
-"result": "3rd November 1995"
+"result": "24th February 1986"
 },
 {
 "keyword": "Date of birth",
-"result": "3rd November 1995"
+"result": "24th February 1986"
 },
 {
-"keyword": "Graduation college",
-"result": "DIT University, Dehradun"
+"keyword": "Post Graduation college",
+"result": "IPM, Meerut"
 },
 {
-"keyword": "Intermediate",
-"result": "Satyam International School, Patna"
+"keyword": "skills",
+"result": "Target oriented"
 },
 {
-"keyword": "Project",
-"result": "funmate.co.in"
+"keyword": "skills",
+"result": "Motivated"
 },
 {
-"keyword": "Project",
-"result": "Quiz Portal"
+"keyword": "skills",
+"result": "Negotiating skills"
 },
 {
-"keyword": "Project",
-"result": "Smartaccount"
+"keyword": "skills",
+"result": "STRONG COMMUNICATION"
 },
 {
-"keyword": "Project",
-"result": "Tank Cleaning App"
-},
-{
-"keyword": "Project",
-"result": "Bitcoin Real time price app"
-},
-{
-"keyword": "Project",
-"result": "Jumble"
+"keyword": "skills",
+"result": "TEAM PLAYER"
 },
 {
 "keyword": "Love",
-"result": "High Music"
+"result": "Cooking"
 },
 {
 "keyword": "Mobile Number",
-"result": "8979597691"
+"result": "9168240286"
 },
 {
 "keyword": "email id",
-"result": "ankitkr31195@gmail.com"
+"result": "vivekgaur24@gmail.com"
 },
 {
 "keyword": "love",
-"result": "web development"
+"result": "TRAVELLING"
 }
 ]
