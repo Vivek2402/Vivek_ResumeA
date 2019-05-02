@@ -1,7 +1,7 @@
 [
 {
 "keyword": "hobby",
-"result": "cooking"
+"result": "COOKING"
 },
 {
 "keyword": "percentage class 12th",
@@ -9,7 +9,7 @@
 },
 {
 "keyword": "branch MBA",
-"result": "Sales and Marketing"
+"result": "SALES AND MARKETING"
 },
 {
 "keyword": "percentage MBA",
@@ -17,23 +17,23 @@
 },
 {
 "keyword": "hobby",
-"result": "games"
+"result": "GAMES"
 },
 {
 "keyword": "hobby",
-"result": "exploring new places"
+"result": "EXPLORING NEW PLACES"
 },
 {
 "keyword": "previous company",
-"result": "sony"
+"result": "SONY"
 },
 {
 "keyword": "previous company",
-"result": "Asus"
+"result": "ASUS"
 },
 {
 "keyword": "previous company",
-"result": "Vodafone"
+"result": "VODAFONE"
 },
 {
 "keyword": "previous company",
@@ -45,31 +45,31 @@
 },
 {
 "keyword": "Born",
-"result": "Meerut"
+"result": "MEERUT"
 },
 {
 "keyword": "dob",
-"result": "24th February 1986"
+"result": "24th FEBRUARY 1986"
 },
 {
 "keyword": "Date of birth",
-"result": "24th February 1986"
+"result": "24th FEBRUARY 1986"
 },
 {
 "keyword": "Post Graduation college",
-"result": "IPM, Meerut"
+"result": "IPM, MEERUT"
 },
 {
 "keyword": "skills",
-"result": "Target oriented"
+"result": "TARGET ORIENTED"
 },
 {
 "keyword": "skills",
-"result": "Motivated"
+"result": "MOTIVATED"
 },
 {
 "keyword": "skills",
-"result": "Negotiating skills"
+"result": "NEGOTIATION POWER"
 },
 {
 "keyword": "skills",
@@ -81,7 +81,7 @@
 },
 {
 "keyword": "Love",
-"result": "Cooking"
+"result": "COOKING"
 },
 {
 "keyword": "Mobile Number",
