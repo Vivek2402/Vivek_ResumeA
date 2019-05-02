@@ -9,7 +9,7 @@ body{height:100%;overflow-x:hidden;}
 a{color:white;}
 .bio-desc{color:black;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:white;}
 .bio-section{background-color:#FFFFFF;}
-.skill-desc{color:#FF6F00;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:#FFE57F;}
+.skill-desc{color:#FFCDD2;padding:14px;text-align:justify;font-family:'Courgette', cursive;font-size:18px;letter-spacing:2px;background-color:#D32F2F;}
 .education-section{background-image:url("../img/edu.jpg");;min-height:100%;position:relative;opacity:0.9;background-attachment:fixed;background-position:center;background-repeat:no-repeat;background-size:cover;}
 .work-section{background-color:#212121;}
 .skill-section{background-image:url("../img/skillsBG.jpg");;min-height:100%;position:relative;opacity:0.9;background-attachment:fixed;background-position:center;background-repeat:no-repeat;background-size:cover;}
