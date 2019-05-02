@@ -68,7 +68,7 @@ i.right{float:right;margin-left:15px;}
 #skill1,#skill2,#skill3,#skill4,#skill5,#skill6,#skill7,#skill8,#skill9,#skill10,#skill11,#skill12{position:relative;}
 #skill-heading{color:white;font-size:30px;font-family:'Nunito', sans-serif;}
 .info{background-color:#e7f3fe;border-left:6px solid #2196F3;margin-bottom:15px;padding:4px 12px;color:black;font-size:18px;visibility:hidden;}
-input[type=text]{width:220px;box-sizing:border-box;border:2px solid #ccc;border-radius:4px;font-size:16px;background-color:white;background-position:10px 10px;background-repeat:no-repeat;background-size:24px;padding:12px 20px 12px 40px;-webkit-transition:width 0.4s ease-in-out;transition:width 0.4s ease-in-out;}
+input[type=text]{width:220px;box-sizing:border-box;border:2px solid #ccc;border-radius:4px;font-size:16px;background-color:white;background-image:url('../img/searchicon.png');background-position:10px 10px;background-repeat:no-repeat;background-size:24px;padding:12px 20px 12px 40px;-webkit-transition:width 0.4s ease-in-out;transition:width 0.4s ease-in-out;}
 input[type=text]:focus{width:100%;}
 #return-to-top {
     position: fixed;
