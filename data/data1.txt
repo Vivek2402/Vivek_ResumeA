@@ -1,112 +1,98 @@
 [
 {
 "keyword": "hobby",
-"result": "games"
+"result": "listening music"
 },
 {
-"keyword": "hobby",
-"result": "cricket"
-},
-{
-"keyword": "percentage Graduation",
+"keyword": "percentage class 12th",
 "result": "80%"
 },
 {
-"keyword": "branch MBA",
-"result": "sales and marketing"
+"keyword": "branch engineering",
+"result": "computer science and engineering"
 },
 {
-"keyword": "percentage post Graduation",
+"keyword": "percentage 10th",
 "result": "77.9%"
 },
 {
-"keyword": "hobby",
-"result": "cooking"
+"keyword": "cgpa 10th",
+"result": "8.2"
 },
-
+{
+"keyword": "hobby",
+"result": "reading stuff"
+},
+{
+"keyword": "internship",
+"result": "PartyHard"
+},
+{
+"keyword": "internship",
+"result": "Wipro Ltd."
+},
 {
 "keyword": "name",
-"result": "vivek Gaur"
+"result": "Ankit Kumar"
 },
 {
 "keyword": "Born",
-"result": "Meerut"
+"result": "Patna"
 },
 {
 "keyword": "dob",
-"result": "24TH February 1986"
+"result": "3rd November 1995"
 },
 {
 "keyword": "Date of birth",
-"result": "24TH FEBRUARY 1986"
+"result": "3rd November 1995"
 },
 {
 "keyword": "Graduation college",
-"result": "CCS UNIVERSITY, MEERUT"
-},
-
-{
-"keyword": "Previous Company",
-"result": "VODAFONE"
+"result": "DIT University, Dehradun"
 },
 {
-"keyword": "Previous Company",
-"result": "SONY"
+"keyword": "Intermediate",
+"result": "Satyam International School, Patna"
 },
 {
-"keyword": "Previous Company",
-"result": "ASUS"
+"keyword": "Project",
+"result": "funmate.co.in"
 },
 {
-"keyword": "Previous Company",
-"result": "VIDEOCON"
+"keyword": "Project",
+"result": "Quiz Portal"
 },
 {
-"keyword": "Previous Company",
-"result": "RELIANCE"
+"keyword": "Project",
+"result": "Smartaccount"
+},
+{
+"keyword": "Project",
+"result": "Tank Cleaning App"
+},
+{
+"keyword": "Project",
+"result": "Bitcoin Real time price app"
+},
+{
+"keyword": "Project",
+"result": "Jumble"
 },
 {
 "keyword": "Love",
-"result": "COOKING"
-},
-{
-"keyword": "Love",
-"result": "EXPLORING NEW PLACES"
-},
-{
-"keyword": "Love",
-"result": "MEETING NEW PEOPLE"
+"result": "High Music"
 },
 {
 "keyword": "Mobile Number",
-"result": "9168240286"
+"result": "8979597691"
 },
 {
 "keyword": "email id",
-"result": "vivekgaur24@gmail.com"
+"result": "ankitkr31195@gmail.com"
 },
 {
 "keyword": "love",
-"result": "PLAYING GAMES"
-}
-{
-"keyword": "skills",
-"result": "CONVINCING POWER"
-}
-{
-"keyword": "skills",
-"result": "CONFIDENT"
-}
-{
-"keyword": "skills",
-"result": "INNOVATIVE"
-}
-{
-"keyword": "skills",
-"result": "MOTIVATING"
-}
-{
-"keyword": "skills",
-"result": "GOAL ORIENTED"
+"result": "web development"
 }
 ]
