@@ -3,21 +3,18 @@
 "keyword": "hobby",
 "result": "COOKING"
 },
-{
-"keyword": "percentage class 12th",
-"result": "80%"
-},
+
 {
 "keyword": "branch MBA",
 "result": "SALES AND MARKETING"
 },
 {
-"keyword": "percentage MBA",
-"result": "77.9%"
+"keyword": "hobby",
+"result": "PLAYING CRICKET"
 },
 {
 "keyword": "hobby",
-"result": "GAMES"
+"result": "GYMING"
 },
 {
 "keyword": "hobby",
@@ -85,7 +82,7 @@
 },
 {
 "keyword": "Mobile Number",
-"result": "9168240286"
+"result": "+91-9168240286"
 },
 {
 "keyword": "email id",
